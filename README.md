@@ -18,4 +18,4 @@ de centros arqueológicos.
 
 Proyecto desarrollado utilizando Git y GitHub.
 
-Sistema SINA-INAH - Version master
+Sistema SINA-INAH - Version principal
