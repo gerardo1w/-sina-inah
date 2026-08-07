@@ -12,3 +12,8 @@ de centros arqueológicos.
 - Reportes
 - Dashboard
 - Análisis de información
+
+
+## Equipo de desarrollo
+
+Proyecto desarrollado utilizando Git y GitHub.
