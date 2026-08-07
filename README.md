@@ -17,3 +17,5 @@ de centros arqueológicos.
 ## Equipo de desarrollo
 
 Proyecto desarrollado utilizando Git y GitHub.
+
+Sistema SINA-INAH - Version master
